@@ -1,0 +1,6 @@
+CIQ Tools - Graphing
+--------------------
+(c)2023-2024 Douglas Robertson (douglas@edgeoftheearth.com)
+
+0.1.0  --  09-May-2024
+  - first release (partial)
